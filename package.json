@@ -18,8 +18,8 @@
     "prop-types": "^15.8.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-parallax-tilt": "^1.7.314",
     "react-router-dom": "^7.9.6",
-    "react-tilt": "^1.0.2",
     "react-vertical-timeline-component": "^3.5.3"
   },
   "devDependencies": {
