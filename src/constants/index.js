@@ -116,85 +116,100 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Technical Program Manager Intern",
+    company_name: "Microsoft | Gaming (Xbox) Discovery and Ads Experiences",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "May 2025 - August 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and delivered product architecture for Xbox ad features impacting 40M+ monthly active users, balancing UX, business goals, and technical constraints.",
+      "Authored 3+ feature specs and definitions in 12 weeks; enabled global delivery in 90+ countries; communicated technical challenges and progress to stakeholders, advocating for millions of users worldwide.",
+      "Presented strategy and results to 200+ audience, including senior executives, communicating technical strategy and results to technical and non-technical audiences.",
+      "Led cross-functional initiatives with engineering, product, design, user research, legal, and data science teams across 5 global offices; applied quantitative analysis to improve delivery quality.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Mobile Developer Intern",
+    company_name: "American Fidelity Assurance Company",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Sep 2024 - April 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed and tested Android applications in Java/Kotlin/XML using MVVM, Jetpack Compose, Gradle, and Azure Devops.",
+      "Spearheaded UI redesign projects to improve app usability and visual appeal, supporting 100,000+ users worldwide.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "IT Operations Intern",
+    company_name: "American Fidelity Assurance Company",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "July 2024 - Sep 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Resolved 50+ weekly ServiceNow tickets for IT executives, managers, clients, and technical teams through programming, testing, process analysis, troubleshooting, and inventory management, reducing ticket resolution time by 15%.",
+      "Analyzed IT operations data through ServiceNow to track trends, system performance, and hardware/software metrics, delivering actionable insights to 5–20 stakeholders and informing quarterly reports, demonstrating strong teamwork, problem-solving, and communication skills.",
+    ],
+  },
+  {
+    title: "Web Developer Intern",
+    company_name: "DeafandHOH.com, LLC",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "May 2024 - July 2024",
+    points: [
+      "Developed end-to-end UI/UX improvements, website usability, accessibility, and brand presentation for sponsors using HTML/JavaScript/CSS; Increased engagement 20%+ through technical landing pages.",
+    ],
+  },
+  {
+    title: "STEAM Instructor",
+    company_name: "iCode School Franchise",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "May 2024 - July 2024",
+    points: [
+      "Delivered hands-on STEM programs to 30+ K–12 students per session, covering Java, Python, Lua, 3D printing, and game design (Unity, Unreal Engine, Modding, Lua), ensuring 100% curriculum completion.",
+      "Designed performance tracking and lab project optimization, improving student completion rates by 15%.",
+      "Collaborated with senior instructors to plan and optimize 10+ lab projects, managing resources, timelines, and technical setup."
+    ],
+  },
+  {
+    title: "Data Science Researcher",
+    company_name: "University of Central Oklahoma",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "May 2024 - July 2024",
+    points: [
+      "Processed 200+ instructional videos using C++ programs to process large datasets to generate actionable insights, organized data and analyzed results in Excel; presented findings to a 100+ attendees at the University of Central Oklahoma Tri-Center Symposium.",
     ],
   },
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
+// const testimonials = [
+//   {
+//     testimonial:
+//       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+//     name: "Sara Lee",
+//     designation: "CFO",
+//     company: "Acme Co",
+//     image: "https://randomuser.me/api/portraits/women/4.jpg",
+//   },
+//   {
+//     testimonial:
+//       "I've never met a web developer who truly cares about their clients' success like Rick does.",
+//     name: "Chris Brown",
+//     designation: "COO",
+//     company: "DEF Corp",
+//     image: "https://randomuser.me/api/portraits/men/5.jpg",
+//   },
+//   {
+//     testimonial:
+//       "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+//     name: "Lisa Wang",
+//     designation: "CTO",
+//     company: "456 Enterprises",
+//     image: "https://randomuser.me/api/portraits/women/6.jpg",
+//   },
+// ];
 
 const projects = [
   {
