@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Technical Program Manager Intern",
     company_name: "Microsoft | Gaming (Xbox) Discovery and Ads Experiences",
-    icon: tesla,
+    //icon: tesla,
     iconBg: "#E6DEDD",
     date: "May 2025 - August 2025",
     points: [
@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "Mobile Developer Intern",
     company_name: "American Fidelity Assurance Company",
-    icon: shopify,
+    //icon: shopify,
     iconBg: "#383E56",
     date: "Sep 2024 - April 2025",
     points: [
@@ -142,7 +142,7 @@ const experiences = [
   {
     title: "IT Operations Intern",
     company_name: "American Fidelity Assurance Company",
-    icon: meta,
+    //icon: meta,
     iconBg: "#E6DEDD",
     date: "July 2024 - Sep 2024",
     points: [
@@ -153,7 +153,7 @@ const experiences = [
   {
     title: "Web Developer Intern",
     company_name: "DeafandHOH.com, LLC",
-    icon: meta,
+    //icon: meta,
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
@@ -163,7 +163,7 @@ const experiences = [
   {
     title: "STEAM Instructor",
     company_name: "iCode School Franchise",
-    icon: meta,
+    //icon: meta,
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
@@ -175,7 +175,7 @@ const experiences = [
   {
     title: "Data Science Researcher",
     company_name: "University of Central Oklahoma",
-    icon: meta,
+    //icon: meta,
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
