@@ -169,7 +169,7 @@ const experiences = [
     points: [
       "Delivered hands-on STEM programs to K–12 students per session, covering Java, Python, Lua, 3D printing, and game design (Unity, Unreal Engine, Modding, Lua), ensuring curriculum completion.",
       "Designed performance tracking and lab project optimization, improving student completion rates",
-      "Collaborated with senior instructors to plan and optimize 10+ lab projects, managing resources, timelines, and technical setup."
+      "Collaborated with senior instructors to plan and optimize lab projects, managing resources, timelines, and technical setup."
     ],
   },
   {
