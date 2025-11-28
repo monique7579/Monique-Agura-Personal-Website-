@@ -184,7 +184,7 @@ const experiences = [
   },
 ];
 
-const testimonials = [
+const testimonials = [ // creative portfolio
   // {
   //   testimonial:
   //     "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
@@ -233,27 +233,27 @@ const projects = [
     image: carrent,
     source_code_link: "https://github.com/monique7579/Augury",
   },
-  // {
-  //   name: "Job IT",
-  //   description:
-  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "restapi",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "scss",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: jobit,
-  //   source_code_link: "https://github.com/",
-  // },
+  {
+    name: "DeafandHOH.com Web Development",
+    description:
+      "Update Landing Pages to improve usability, accessibility, and brand presentation for sponsors using HTML/JavaScript/CSS; Increased engagement through technical landing pages.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/",
+  },
   // {
   //   name: "Trip Guide",
   //   description:
